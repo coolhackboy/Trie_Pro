@@ -1,6 +1,6 @@
 # trie
 
-###下载
+### 下载
 
 ```
 go get github.com/coolhackboy/trie
